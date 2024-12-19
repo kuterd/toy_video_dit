@@ -7,6 +7,8 @@ This is a toy diffusion video model trained on the MovingMNIST dataset.
 
 Generated output after 79 epochs on the dataset.
 
+Trained model weights is available through [hugging face](https://huggingface.co/kuterd/moving_mnist_diffusion/tree/main)
+
 ## Acknowledgements
 
 Diffusion model code is partially based on:
